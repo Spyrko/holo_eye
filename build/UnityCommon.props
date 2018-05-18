@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>DragByGaze</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\adminuser\Desktop\Hololense-Eyetracking\DragByGaze\build\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\adminuser\Desktop\Hololense-Eyetracking\DragByGaze\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
